@@ -95,8 +95,8 @@ It automatically flags high-value expenses for CEO approval, sends email notific
 - **Dashboard:** Pie/Bar charts for quick visual overview.  
 
 > 🎨 *Screenshot placeholders:*  
-> `![Expense Report](path-to-report-screenshot.png)`  
-> `![Dashboard](path-to-dashboard-screenshot.png)`
+> `![Expense Report](<img width="940" height="724" alt="image" src="https://github.com/user-attachments/assets/a360b756-165c-4e76-a54d-875c1fa380b0" />
+)`  
 
 ---
 
