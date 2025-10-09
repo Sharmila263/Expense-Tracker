@@ -94,10 +94,6 @@ It automatically flags high-value expenses for CEO approval, sends email notific
 - **Expense Report:** Grouped by Category and Status with sum of Amounts.  
 - **Dashboard:** Pie/Bar charts for quick visual overview.  
 
-> 🎨 *Screenshot placeholders:*  
-> `![Expense Report](<img width="940" height="724" alt="image" src="https://github.com/user-attachments/assets/a360b756-165c-4e76-a54d-875c1fa380b0" />
-)`  
-
 ---
 
 ## 📦 Installation / Deployment
@@ -125,8 +121,11 @@ It automatically flags high-value expenses for CEO approval, sends email notific
 
 Open-source project for **learning and demonstration purposes**.
 
-Created By Sharmila Beeraka
-Demo video : https://drive.google.com/file/d/1HwX1NyTIA4F_g44EBy8kjtTKzWDhGLkY/view?usp=sharing
-
 ---
+
+
+## Created By Sharmila Beeraka
+## Demo video : https://drive.google.com/file/d/1HwX1NyTIA4F_g44EBy8kjtTKzWDhGLkY/view?usp=sharing
+
+
 
