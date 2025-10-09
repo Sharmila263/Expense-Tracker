@@ -124,8 +124,9 @@ Open-source project for **learning and demonstration purposes**.
 ---
 
 
-## Created By Sharmila Beeraka
-## Demo video : https://drive.google.com/file/d/1HwX1NyTIA4F_g44EBy8kjtTKzWDhGLkY/view?usp=sharing
+## Created By 
+Sharmila Beeraka
+Demo video : https://drive.google.com/file/d/1HwX1NyTIA4F_g44EBy8kjtTKzWDhGLkY/view?usp=sharing
 
 
 
